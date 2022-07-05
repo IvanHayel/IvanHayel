@@ -7,8 +7,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IvanHayel&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IvanHayel&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IvanHayel&theme=github_dark))
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IvanHayel&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IvanHayel&theme=github_dark))
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IvanHayel&theme=github_dark)
 
 [![codewars](https://www.codewars.com/users/i.hayel/badges/small)](https://www.codewars.com/users/i.hayel)
